@@ -1,6 +1,6 @@
 {
   "homepage": "https://cg2984.github.io/image-scraper-site/",
-  "name": "my-app",
+  "name": "image-scraper-site",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
