@@ -3,3 +3,7 @@
   margin:0 auto;
   background-color:#FFFFFF;
 }
+
+.motion_card{
+	cursor:pointer;
+}
