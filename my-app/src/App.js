@@ -79,7 +79,7 @@ function App() {
           </Image>
           <ModalFooter>
             <Button as="a" href={link} variant="ghost" mr={3} onClick={onClose} isExternal={true}>
-              Open Image in New Tab
+              Open Image
             </Button>
             <Button colorScheme="orange" mr={3} onClick={onClose} ref={initialRef}>
               Close
